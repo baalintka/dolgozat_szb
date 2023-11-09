@@ -1,0 +1,11 @@
+import feladatok
+print("1. feladat")
+feladatok.feladat1()
+print("2.feladat")
+feladatok.feladat2()
+print("3.feladat")
+feladatok.feladat3("HEBLE",1)
+print("4.feladat")
+feladatok.feladat4()
+print("5.feladat")
+feladatok.feladat5()
